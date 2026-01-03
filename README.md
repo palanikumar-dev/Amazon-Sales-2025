@@ -32,93 +32,93 @@ The data is used to evaluate overall business performance and growth patterns.
 
 1️⃣ **Data Understanding**
 
-Reviewed dataset structure and column meanings
+* Reviewed dataset structure and column meanings
 
-Identified key business metrics such as sales, quantity, and categories
+* Identified key business metrics such as sales, quantity, and categories
 
-Checked data size and time coverage for 2025
+* Checked data size and time coverage for 2025
 
 2️⃣ **Data Cleaning**
 
-Removed duplicate records
+* Removed duplicate records
 
-Handled missing and inconsistent values
+* Handled missing and inconsistent values
 
-Corrected data types (dates, numbers, categories)
+* Corrected data types (dates, numbers, categories)
 
-Standardized column names for consistency
+* Standardized column names for consistency
 
 3️⃣ **Data Preparation**
 
-Created new derived fields such as month and year
+* Created new derived fields such as month and year
 
-Grouped data by category, region, and time period
+* Grouped data by category, region, and time period
 
-Prepared aggregated tables for analysis and visualization
+* Prepared aggregated tables for analysis and visualization
 
 4️⃣ **Exploratory Data Analysis (EDA)**
 
-Analyzed overall sales performance
+* Analyzed overall sales performance
 
-Identified monthly and yearly sales trends
+* Identified monthly and yearly sales trends
 
-Compared sales across product categories
+* Compared sales across product categories
 
-Studied regional contribution to total revenue
+* Studied regional contribution to total revenue
 
 5️⃣ **Key Performance Indicators (KPIs)**
 
-Total Sales
+* Total Sales
 
-Total Orders
+* Total Orders
 
-Average Sales per Order
+* Average Sales per Order
 
-Top 10 Products by Sales
+* Top 10 Products by Sales
 
-Best-Performing Region
+* Best-Performing Region
 
-Monthly Sales Growth
+* Monthly Sales Growth
 
 6️⃣ **Data Visualization**
 
-Line charts to show monthly sales trends
+* Line charts to show monthly sales trends
 
-Bar charts for category-wise and product-wise sales
+* Bar charts for category-wise and product-wise sales
 
-Pie charts for regional sales contribution
+* Pie charts for regional sales contribution
 
-Comparative charts to identify high and low performance areas
+* Comparative charts to identify high and low performance areas
 
 7️⃣ **Insights & Findings**
 
-Identified peak sales months in 2025
+* Identified peak sales months in 2025
 
-Determined top-selling products and categories
+* Determined top-selling products and categories
 
-Found regions with highest and lowest sales contribution
+* Found regions with highest and lowest sales contribution
 
-Observed seasonal sales patterns and customer demand trends
+* Observed seasonal sales patterns and customer demand trends
 
 8️⃣ **Business Recommendations**
 
-Focus marketing efforts on high-performing categories
+* Focus marketing efforts on high-performing categories
 
-Improve inventory planning for peak sales months
+* Improve inventory planning for peak sales months
 
-Expand operations in high-growth regions
+* Expand operations in high-growth regions
 
-Optimize underperforming products with discounts or promotions
+* Optimize underperforming products with discounts or promotions
 
 🔹 **Tools & Technologies Used**
 
-Google Colab
+* Google Colab
 
-Python (Pandas, Matplotlib, Plotly – for analysis & visualization)
+* Python (Pandas, Matplotlib, Plotly – for analysis & visualization)
 
-Excel (for data source & validation)
+* Excel (for data source & validation)
 
-Power BI (optional dashboard integration)
+* Power BI (optional dashboard integration)
 
 🔹 **Project Outcome**
 
