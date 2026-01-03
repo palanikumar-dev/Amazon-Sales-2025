@@ -12,17 +12,17 @@ The objective of this project is to analyze Amazon’s 2025 sales data to identi
 The dataset contains Amazon sales transaction data for the year 2025.
 It includes information such as:
 
-Order Date
+* Order Date
 
-Product Name
+* Product Name
 
-Category
+* Category
 
-Sales Amount
+* Sales Amount
 
-Quantity Sold
+* Quantity Sold
 
-Region / Country
+* Region / Country
 
 Customer Segment
 
