@@ -1,6 +1,6 @@
 📦 Amazon Sales 2025 – Data Analytics Project Template
-🔹 Project Title
 
+🔹 Project Title
 Amazon Sales Analysis Dashboard – 2025
 
 🔹 Project Objective
