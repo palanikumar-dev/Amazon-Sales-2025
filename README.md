@@ -1,6 +1,6 @@
 📦 Amazon Sales 2025 – Data Analytics Project Template
 
-🔹 Project Title
+🔹 Project Title: 
 Amazon Sales Analysis Dashboard – 2025
 
 🔹 Project Objective
@@ -29,6 +29,7 @@ Customer Segment
 The data is used to evaluate overall business performance and growth patterns.
 
 🔹 Project Workflow
+
 1️⃣ Data Understanding
 
 Reviewed dataset structure and column meanings
